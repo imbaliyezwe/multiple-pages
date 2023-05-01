@@ -1,0 +1,18 @@
+body{
+    background: burlywood;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: white;
+}
+img{
+    text-align: center;
+    display: block;
+}
+a{
+    text-align: center;
+}
